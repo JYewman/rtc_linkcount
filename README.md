@@ -1,6 +1,6 @@
 # linkcount
 
-**linkcount** is a web program that shows the number of links to any page in the RTC Wiki project. It is hosted at <https://linkcount.wikitools.retrotechcollection.com/>.
+**linkcount** is a web program that shows the number of links to any page in the RTC Wiki project. It is hosted at <https://linkcount-wikitools.retrotechcollection.com/>.
 
 ## Installing
 
